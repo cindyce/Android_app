@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">TFL Image Despeckle</string>
+    <string name="choose_image" translatable="false">Choose an image:</string>
+    <string name="low_resolution_1" translatable="false">insect head</string>
+    <string name="low_resolution_2" translatable="false">lights</string>
+    <string name="low_resolution_3" translatable="false">cat ear</string>
+    <string name="chosen_image_text" translatable="false">You are using image: None.</string>
+        <string name="simple_explanation" translatable="false">(Click DESPECKLE button!)</string>
+    <string name="Despeckled_image" translatable="false">Despeckled image:</string>
+    <string name="Original_image" translatable="false">Original image:</string>
+    <string name="despeckle" translatable="false">Despeckle</string>
+    <string name="gpu" translatable="false">GPU</string>
+    <string name="save">Save</string>
+    <string name="open">Open</string>
+    <string name="share">Share</string>
+</resources>
